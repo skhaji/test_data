@@ -1,221 +1,221 @@
-puma,boro,nabes,index,value
-4013,Brooklyn,Bay Ridge & Dyker Heights,Displacement Risk,36.86243960916331
-4013,Brooklyn,Bay Ridge & Dyker Heights,Market Pressure,7.73
-4013,Brooklyn,Bay Ridge & Dyker Heights,Population Vulnerability,48.71532038755234
-4013,Brooklyn,Bay Ridge & Dyker Heights,Housing Conditions,39.5897308481813
-3901,Staten,"Tottenville, Great Kills & Annadale",Displacement Risk,7.405018049636501
-3901,Staten,"Tottenville, Great Kills & Annadale",Market Pressure,2.531767059413387
-3901,Staten,"Tottenville, Great Kills & Annadale",Population Vulnerability,9.769300676861368
-3901,Staten,"Tottenville, Great Kills & Annadale",Housing Conditions,42.720144798195044
-3902,Staten,New Springville & South Beach,Displacement Risk,15.622627881613278
-3902,Staten,New Springville & South Beach,Market Pressure,3.75
-3902,Staten,New Springville & South Beach,Population Vulnerability,20.648648261408837
-3902,Staten,New Springville & South Beach,Housing Conditions,41.504981181301055
-3903,Staten,"Port Richmond, Stapleton & Mariner's Harbor",Displacement Risk,30.097364641889893
-3903,Staten,"Port Richmond, Stapleton & Mariner's Harbor",Market Pressure,4.16
-3903,Staten,"Port Richmond, Stapleton & Mariner's Harbor",Population Vulnerability,39.27070302009604
-3903,Staten,"Port Richmond, Stapleton & Mariner's Harbor",Housing Conditions,44.47704129588749
-3701,Bronx,"Riverdale, Fieldston & Kingsbridge",Displacement Risk,49.10330648070217
-3701,Bronx,"Riverdale, Fieldston & Kingsbridge",Market Pressure,3.87
-3701,Bronx,"Riverdale, Fieldston & Kingsbridge",Population Vulnerability,57.024738302457436
-3701,Bronx,"Riverdale, Fieldston & Kingsbridge",Housing Conditions,67.11250848586306
-3705,Bronx,"Belmont, Crotona Park East & East Tremont",Displacement Risk,78.03141818886272
-3705,Bronx,"Belmont, Crotona Park East & East Tremont",Market Pressure,22.836096324857362
-3705,Bronx,"Belmont, Crotona Park East & East Tremont",Population Vulnerability,85.79523212578349
-3705,Bronx,"Belmont, Crotona Park East & East Tremont",Housing Conditions,69.86948413020791
-3706,Bronx,"Bedford Park, Fordham North & Norwood",Displacement Risk,91.61069298693144
-3706,Bronx,"Bedford Park, Fordham North & Norwood",Market Pressure,20.613472783642713
-3706,Bronx,"Bedford Park, Fordham North & Norwood",Population Vulnerability,98.84098057376083
-3706,Bronx,"Bedford Park, Fordham North & Norwood",Housing Conditions,79.39005894588125
-3707,Bronx,"Morris Heights, Fordham South & Mount Hope",Displacement Risk,88.65295977118511
-3707,Bronx,"Morris Heights, Fordham South & Mount Hope",Market Pressure,11.08
-3707,Bronx,"Morris Heights, Fordham South & Mount Hope",Population Vulnerability,99.993684798558
-3707,Bronx,"Morris Heights, Fordham South & Mount Hope",Housing Conditions,75.84641880870271
-3708,Bronx,"Concourse, Highbridge & Mount Eden",Displacement Risk,90.24149303985124
-3708,Bronx,"Concourse, Highbridge & Mount Eden",Market Pressure,18.132875808547453
-3708,Bronx,"Concourse, Highbridge & Mount Eden",Population Vulnerability,99.81519035414559
-3708,Bronx,"Concourse, Highbridge & Mount Eden",Housing Conditions,74.46589419425241
-3710,Bronx,"Hunts Point, Longwood & Melrose",Displacement Risk,89.43872975376999
-3710,Bronx,"Hunts Point, Longwood & Melrose",Market Pressure,46.207021933846804
-3710,Bronx,"Hunts Point, Longwood & Melrose",Population Vulnerability,92.91891764981692
-3710,Bronx,"Hunts Point, Longwood & Melrose",Housing Conditions,65.89403904100617
-4001,Brooklyn,Greenpoint & Williamsburg,Displacement Risk,38.83292050929345
-4001,Brooklyn,Greenpoint & Williamsburg,Market Pressure,77.46336116061445
-4001,Brooklyn,Greenpoint & Williamsburg,Population Vulnerability,39.80904239820569
-4001,Brooklyn,Greenpoint & Williamsburg,Housing Conditions,49.209907912479586
-4002,Brooklyn,Bushwick,Displacement Risk,74.63629608709445
-4002,Brooklyn,Bushwick,Market Pressure,100
-4002,Brooklyn,Bushwick,Population Vulnerability,64.64078041458073
-4002,Brooklyn,Bushwick,Housing Conditions,72.144725818058
-4003,Brooklyn,Bedford-Stuyvesant,Displacement Risk,46.16464695232347
-4003,Brooklyn,Bedford-Stuyvesant,Market Pressure,89.31711526855763
-4003,Brooklyn,Bedford-Stuyvesant,Population Vulnerability,42.03558841279421
-4003,Brooklyn,Bedford-Stuyvesant,Housing Conditions,65.19424260712131
-4004,Brooklyn,Brooklyn Heights & Fort Greene,Displacement Risk,20.47191142644522
-4004,Brooklyn,Brooklyn Heights & Fort Greene,Market Pressure,75.3068643236478
-4004,Brooklyn,Brooklyn Heights & Fort Greene,Population Vulnerability,20.086664665291075
-4004,Brooklyn,Brooklyn Heights & Fort Greene,Housing Conditions,59.1867219159084
-4005,Brooklyn,"Park Slope, Carroll Gardens & Red Hook",Displacement Risk,7.258773796720817
-4005,Brooklyn,"Park Slope, Carroll Gardens & Red Hook",Market Pressure,59.097442878436254
-4005,Brooklyn,"Park Slope, Carroll Gardens & Red Hook",Population Vulnerability,7.82214863870493
-4005,Brooklyn,"Park Slope, Carroll Gardens & Red Hook",Housing Conditions,51.25501169789249
-4006,Brooklyn,Crown Heights North & Prospect Heights,Displacement Risk,33.41813848379912
-4006,Brooklyn,Crown Heights North & Prospect Heights,Market Pressure,67.69598514038596
-4006,Brooklyn,Crown Heights North & Prospect Heights,Population Vulnerability,31.93248996081874
-4006,Brooklyn,Crown Heights North & Prospect Heights,Housing Conditions,65.48514339364972
-4007,Brooklyn,Brownsville & Ocean Hill,Displacement Risk,64.4659530181137
-4007,Brooklyn,Brownsville & Ocean Hill,Market Pressure,34.269368445700714
-4007,Brooklyn,Brownsville & Ocean Hill,Population Vulnerability,71.53503445449832
-4007,Brooklyn,Brownsville & Ocean Hill,Housing Conditions,62.64829065547175
-4101,Queens,Astoria & Long Island City,Displacement Risk,39.437164740398806
-4101,Queens,Astoria & Long Island City,Market Pressure,75.17002951122748
-4101,Queens,Astoria & Long Island City,Population Vulnerability,39.60820831252045
-4101,Queens,Astoria & Long Island City,Housing Conditions,47.09680624214134
-4109,Queens,Sunnyside & Woodside,Displacement Risk,42.66801293589562
-4109,Queens,Sunnyside & Woodside,Market Pressure,52.16115661246835
-4109,Queens,Sunnyside & Woodside,Population Vulnerability,47.68929046761918
-4109,Queens,Sunnyside & Woodside,Housing Conditions,45.83001426533524
-4110,Queens,"Ridgewood, Glendale & Middle Village",Displacement Risk,31.206447861480815
-4110,Queens,"Ridgewood, Glendale & Middle Village",Market Pressure,60.22228194857216
-4110,Queens,"Ridgewood, Glendale & Middle Village",Population Vulnerability,33.175923187163015
-4110,Queens,"Ridgewood, Glendale & Middle Village",Housing Conditions,38.87368687521291
-3801,Manhattan,"Washington Heights, Inwood & Marble Hill",Displacement Risk,62.895828761597414
-3801,Manhattan,"Washington Heights, Inwood & Marble Hill",Market Pressure,46.47693021379589
-3801,Manhattan,"Washington Heights, Inwood & Marble Hill",Population Vulnerability,62.5391560104881
-3801,Manhattan,"Washington Heights, Inwood & Marble Hill",Housing Conditions,79.02273920935862
-3802,Manhattan,"Hamilton Heights, Manhattanville & West Harlem",Displacement Risk,47.449239868444806
-3802,Manhattan,"Hamilton Heights, Manhattanville & West Harlem",Market Pressure,47.52661912573882
-3802,Manhattan,"Hamilton Heights, Manhattanville & West Harlem",Population Vulnerability,46.51087559556982
-3802,Manhattan,"Hamilton Heights, Manhattanville & West Harlem",Housing Conditions,72.65161712415326
-3803,Manhattan,Central Harlem,Displacement Risk,46.0718169637214
-3803,Manhattan,Central Harlem,Market Pressure,67.07815573252434
-3803,Manhattan,Central Harlem,Population Vulnerability,44.43117456705853
-3803,Manhattan,Central Harlem,Housing Conditions,67.25440551131337
-3804,Manhattan,East Harlem,Displacement Risk,51.83976898059885
-3804,Manhattan,East Harlem,Market Pressure,34.470186161265
-3804,Manhattan,East Harlem,Population Vulnerability,53.3064281709095
-3804,Manhattan,East Harlem,Housing Conditions,79.72033307166087
-3805,Manhattan,Upper East Side,Displacement Risk,2.2155734357948345
-3805,Manhattan,Upper East Side,Market Pressure,14.516427791924338
-3805,Manhattan,Upper East Side,Population Vulnerability,2.5615255092761
-3805,Manhattan,Upper East Side,Housing Conditions,56.39157334485267
-3806,Manhattan,Upper West Side & West Side,Displacement Risk,4.5335361871798705
-3806,Manhattan,Upper West Side & West Side,Market Pressure,27.313157989755865
-3806,Manhattan,Upper West Side & West Side,Population Vulnerability,5.10260658080024
-3806,Manhattan,Upper West Side & West Side,Housing Conditions,59.205351968101844
-3807,Manhattan,"Chelsea, Clinton & Midtown Business District",Displacement Risk,11.612650002765028
-3807,Manhattan,"Chelsea, Clinton & Midtown Business District",Market Pressure,59.02128131394127
-3807,Manhattan,"Chelsea, Clinton & Midtown Business District",Population Vulnerability,12.918772604103301
-3807,Manhattan,"Chelsea, Clinton & Midtown Business District",Housing Conditions,44.819104683957306
-3808,Manhattan,"Murray Hill, Gramercy & Stuyvesant Town",Displacement Risk,6.045265214224224
-3808,Manhattan,"Murray Hill, Gramercy & Stuyvesant Town",Market Pressure,18.185847957088935
-3808,Manhattan,"Murray Hill, Gramercy & Stuyvesant Town",Population Vulnerability,7.826781868750414
-3808,Manhattan,"Murray Hill, Gramercy & Stuyvesant Town",Housing Conditions,37.215245877756445
-3809,Manhattan,Chinatown & Lower East Side,Displacement Risk,46.185357863911676
-3809,Manhattan,Chinatown & Lower East Side,Market Pressure,12.451487840811946
-3809,Manhattan,Chinatown & Lower East Side,Population Vulnerability,49.49603539533276
-3809,Manhattan,Chinatown & Lower East Side,Housing Conditions,89.72150020917077
-3810,Manhattan,"Battery Park City, Greenwich Village & Soho",Displacement Risk,6.022120532276103
-3810,Manhattan,"Battery Park City, Greenwich Village & Soho",Market Pressure,37.981808519900085
-3810,Manhattan,"Battery Park City, Greenwich Village & Soho",Population Vulnerability,6.461822583561588
-3810,Manhattan,"Battery Park City, Greenwich Village & Soho",Housing Conditions,65.07667099738148
-3702,Bronx,"Wakefield, Williamsbridge & Woodlawn",Displacement Risk,46.95739277869832
-3702,Bronx,"Wakefield, Williamsbridge & Woodlawn",Market Pressure,3.25
-3702,Bronx,"Wakefield, Williamsbridge & Woodlawn",Population Vulnerability,58.154300604986325
-3702,Bronx,"Wakefield, Williamsbridge & Woodlawn",Housing Conditions,56.649573619513696
-3703,Bronx,"Co-op City, Pelham Bay & Schuylerville",Displacement Risk,28.546445244862618
-3703,Bronx,"Co-op City, Pelham Bay & Schuylerville",Market Pressure,2.7832471658662485
-3703,Bronx,"Co-op City, Pelham Bay & Schuylerville",Population Vulnerability,40.142264693390835
-3703,Bronx,"Co-op City, Pelham Bay & Schuylerville",Housing Conditions,26.248411251592668
-3704,Bronx,"Pelham Parkway, Morris Park & Laconia",Displacement Risk,52.08559241782748
-3704,Bronx,"Pelham Parkway, Morris Park & Laconia",Market Pressure,5.23
-3704,Bronx,"Pelham Parkway, Morris Park & Laconia",Population Vulnerability,62.734886154293655
-3704,Bronx,"Pelham Parkway, Morris Park & Laconia",Housing Conditions,62.43467244109757
-3709,Bronx,"Castle Hill, Clason Point & Parkchester",Displacement Risk,63.44623759647189
-3709,Bronx,"Castle Hill, Clason Point & Parkchester",Market Pressure,8.38
-3709,Bronx,"Castle Hill, Clason Point & Parkchester",Population Vulnerability,75.09670887541346
-3709,Bronx,"Castle Hill, Clason Point & Parkchester",Housing Conditions,62.801436273428884
-4102,Queens,Jackson Heights & North Corona,Displacement Risk,63.95331157036965
-4102,Queens,Jackson Heights & North Corona,Market Pressure,8.15
-4102,Queens,Jackson Heights & North Corona,Population Vulnerability,82.07470516365858
-4102,Queens,Jackson Heights & North Corona,Housing Conditions,44.45591696256661
-4103,Queens,"Flushing, Murray Hill & Whitestone",Displacement Risk,57.50952039238427
-4103,Queens,"Flushing, Murray Hill & Whitestone",Market Pressure,6
-4103,Queens,"Flushing, Murray Hill & Whitestone",Population Vulnerability,75.87690836313264
-4103,Queens,"Flushing, Murray Hill & Whitestone",Housing Conditions,36.32233187558391
-4008,Brooklyn,East New York & Starrett City,Displacement Risk,72.00797107451386
-4008,Brooklyn,East New York & Starrett City,Market Pressure,9.66
-4008,Brooklyn,East New York & Starrett City,Population Vulnerability,80.95609570647426
-4008,Brooklyn,East New York & Starrett City,Housing Conditions,77.70412307891417
-4009,Brooklyn,Canarsie & Flatlands,Displacement Risk,23.68050091385025
-4009,Brooklyn,Canarsie & Flatlands,Market Pressure,4.21
-4009,Brooklyn,Canarsie & Flatlands,Population Vulnerability,30.756340262073667
-4009,Brooklyn,Canarsie & Flatlands,Housing Conditions,44.57026986978925
-4010,Brooklyn,"East Flatbush, Farragut & Rugby",Displacement Risk,54.89473001570577
-4010,Brooklyn,"East Flatbush, Farragut & Rugby",Market Pressure,37.680031190319944
-4010,Brooklyn,"East Flatbush, Farragut & Rugby",Population Vulnerability,60.37386265936188
-4010,Brooklyn,"East Flatbush, Farragut & Rugby",Housing Conditions,60.26558107639786
-4011,Brooklyn,"Crown Heights South, Prospect Lefferts & Wingate",Displacement Risk,64.79877745521753
-4011,Brooklyn,"Crown Heights South, Prospect Lefferts & Wingate",Market Pressure,94.39
-4011,Brooklyn,"Crown Heights South, Prospect Lefferts & Wingate",Population Vulnerability,57.13629801454322
-4011,Brooklyn,"Crown Heights South, Prospect Lefferts & Wingate",Housing Conditions,74.20855744009559
-4012,Brooklyn,Sunset Park & Windsor Terrace,Displacement Risk,74.25576030237025
-4012,Brooklyn,Sunset Park & Windsor Terrace,Market Pressure,39.674934280615325
-4012,Brooklyn,Sunset Park & Windsor Terrace,Population Vulnerability,83.35618101500316
-4012,Brooklyn,Sunset Park & Windsor Terrace,Housing Conditions,49.38739816379292
-4014,Brooklyn,"Borough Park, Kensington & Ocean Parkway",Displacement Risk,61.077682806777254
-4014,Brooklyn,"Borough Park, Kensington & Ocean Parkway",Market Pressure,41.18272741169205
-4014,Brooklyn,"Borough Park, Kensington & Ocean Parkway",Population Vulnerability,69.63297663668548
-4014,Brooklyn,"Borough Park, Kensington & Ocean Parkway",Housing Conditions,41.74966761848276
-4015,Brooklyn,Flatbush & Midwood,Displacement Risk,74.19094957734227
-4015,Brooklyn,Flatbush & Midwood,Market Pressure,69.7668937020531
-4015,Brooklyn,Flatbush & Midwood,Population Vulnerability,74.81675993923311
-4015,Brooklyn,Flatbush & Midwood,Housing Conditions,48.67585612617326
-4016,Brooklyn,"Sheepshead Bay, Gerritsen Beach & Homecrest",Displacement Risk,45.41352708272703
-4016,Brooklyn,"Sheepshead Bay, Gerritsen Beach & Homecrest",Market Pressure,43.56622337581471
-4016,Brooklyn,"Sheepshead Bay, Gerritsen Beach & Homecrest",Population Vulnerability,51.70145555698439
-4016,Brooklyn,"Sheepshead Bay, Gerritsen Beach & Homecrest",Housing Conditions,33.97308370163315
-4017,Brooklyn,Bensonhurst & Bath Beach,Displacement Risk,76.45426011363385
-4017,Brooklyn,Bensonhurst & Bath Beach,Market Pressure,73.93571230372834
-4017,Brooklyn,Bensonhurst & Bath Beach,Population Vulnerability,78.43478352309013
-4017,Brooklyn,Bensonhurst & Bath Beach,Housing Conditions,42.72081729392852
-4018,Brooklyn,Brighton Beach & Coney Island,Displacement Risk,53.87406336640569
-4018,Brooklyn,Brighton Beach & Coney Island,Market Pressure,40.593443652025314
-4018,Brooklyn,Brighton Beach & Coney Island,Population Vulnerability,62.12527419832952
-4018,Brooklyn,Brighton Beach & Coney Island,Housing Conditions,37.53622809464856
-4106,Queens,"Briarwood, Fresh Meadows & Hillcrest",Displacement Risk,41.807886035740495
-4106,Queens,"Briarwood, Fresh Meadows & Hillcrest",Market Pressure,5.84
-4106,Queens,"Briarwood, Fresh Meadows & Hillcrest",Population Vulnerability,52.3936241336079
-4106,Queens,"Briarwood, Fresh Meadows & Hillcrest",Housing Conditions,51.75005995725691
-4107,Queens,Elmhurst & South Corona,Displacement Risk,75.2801601807167
-4107,Queens,Elmhurst & South Corona,Market Pressure,9.63
-4107,Queens,Elmhurst & South Corona,Population Vulnerability,95.05759694698293
-4107,Queens,Elmhurst & South Corona,Housing Conditions,46.54429845637814
-4108,Queens,Forest Hills & Rego Park,Displacement Risk,23.48875808122299
-4108,Queens,Forest Hills & Rego Park,Market Pressure,5.57
-4108,Queens,Forest Hills & Rego Park,Population Vulnerability,31.909748901668035
-4108,Queens,Forest Hills & Rego Park,Housing Conditions,32.62626817158982
-4111,Queens,Richmond Hill & Woodhaven,Displacement Risk,41.19785733275497
-4111,Queens,Richmond Hill & Woodhaven,Market Pressure,22.490187219276027
-4111,Queens,Richmond Hill & Woodhaven,Population Vulnerability,48.1144031511047
-4111,Queens,Richmond Hill & Woodhaven,Housing Conditions,54.40250409279807
-4113,Queens,Howard Beach & Ozone Park,Displacement Risk,30.92962399312815
-4113,Queens,Howard Beach & Ozone Park,Market Pressure,36.87428647833909
-4113,Queens,Howard Beach & Ozone Park,Population Vulnerability,35.318529521401594
-4113,Queens,Howard Beach & Ozone Park,Housing Conditions,42.99770230628353
-4114,Queens,"Far Rockaway, Breezy Point & Broad Channel",Displacement Risk,34.120605569166
-4114,Queens,"Far Rockaway, Breezy Point & Broad Channel",Market Pressure,4.9
-4114,Queens,"Far Rockaway, Breezy Point & Broad Channel",Population Vulnerability,45.34727580138712
-4114,Queens,"Far Rockaway, Breezy Point & Broad Channel",Housing Conditions,38.9051316379697
-4104,Queens,"Bayside, Douglaston & Little Neck",Displacement Risk,29.198785750984758
-4104,Queens,"Bayside, Douglaston & Little Neck",Market Pressure,4.74
-4104,Queens,"Bayside, Douglaston & Little Neck",Population Vulnerability,38.144073385853744
-4104,Queens,"Bayside, Douglaston & Little Neck",Housing Conditions,42.98457886624422
-4105,Queens,"Queens Village, Cambria Heights & Rosedale",Displacement Risk,22.953842766062316
-4105,Queens,"Queens Village, Cambria Heights & Rosedale",Market Pressure,6.18
-4105,Queens,"Queens Village, Cambria Heights & Rosedale",Population Vulnerability,29.812057905420083
-4105,Queens,"Queens Village, Cambria Heights & Rosedale",Housing Conditions,42.99513739685298
-4112,Queens,"Jamaica, Hollis & St. Albans",Displacement Risk,35.637027794455555
-4112,Queens,"Jamaica, Hollis & St. Albans",Market Pressure,15.235894302520327
-4112,Queens,"Jamaica, Hollis & St. Albans",Population Vulnerability,42.056486576772194
-4112,Queens,"Jamaica, Hollis & St. Albans",Housing Conditions,49.579235280043704
+puma,index,value,boro,nabes
+03701,Displacement Risk,49,Bronx,"Riverdale, Fieldston & Kingsbridge"
+03701,Market Pressure,4,Bronx,"Riverdale, Fieldston & Kingsbridge"
+03701,Population Vulnerability,57,Bronx,"Riverdale, Fieldston & Kingsbridge"
+03701,Housing Conditions,64,Bronx,"Riverdale, Fieldston & Kingsbridge"
+03702,Displacement Risk,47,Bronx,"Wakefield, Williamsbridge & Woodlawn"
+03702,Market Pressure,3,Bronx,"Wakefield, Williamsbridge & Woodlawn"
+03702,Population Vulnerability,58,Bronx,"Wakefield, Williamsbridge & Woodlawn"
+03702,Housing Conditions,48,Bronx,"Wakefield, Williamsbridge & Woodlawn"
+03703,Displacement Risk,29,Bronx,"Co-op City, Pelham Bay & Schuylerville"
+03703,Market Pressure,3,Bronx,"Co-op City, Pelham Bay & Schuylerville"
+03703,Population Vulnerability,40,Bronx,"Co-op City, Pelham Bay & Schuylerville"
+03703,Housing Conditions,0,Bronx,"Co-op City, Pelham Bay & Schuylerville"
+03704,Displacement Risk,52,Bronx,"Pelham Parkway, Morris Park & Laconia"
+03704,Market Pressure,5,Bronx,"Pelham Parkway, Morris Park & Laconia"
+03704,Population Vulnerability,63,Bronx,"Pelham Parkway, Morris Park & Laconia"
+03704,Housing Conditions,56,Bronx,"Pelham Parkway, Morris Park & Laconia"
+03705,Displacement Risk,78,Bronx,"Belmont, Crotona Park East & East Tremont"
+03705,Market Pressure,23,Bronx,"Belmont, Crotona Park East & East Tremont"
+03705,Population Vulnerability,86,Bronx,"Belmont, Crotona Park East & East Tremont"
+03705,Housing Conditions,69,Bronx,"Belmont, Crotona Park East & East Tremont"
+03706,Displacement Risk,92,Bronx,"Bedford Park, Fordham North & Norwood"
+03706,Market Pressure,21,Bronx,"Bedford Park, Fordham North & Norwood"
+03706,Population Vulnerability,99,Bronx,"Bedford Park, Fordham North & Norwood"
+03706,Housing Conditions,83,Bronx,"Bedford Park, Fordham North & Norwood"
+03707,Displacement Risk,89,Bronx,"Morris Heights, Fordham South & Mount Hope"
+03707,Market Pressure,11,Bronx,"Morris Heights, Fordham South & Mount Hope"
+03707,Population Vulnerability,100,Bronx,"Morris Heights, Fordham South & Mount Hope"
+03707,Housing Conditions,78,Bronx,"Morris Heights, Fordham South & Mount Hope"
+03708,Displacement Risk,90,Bronx,"Concourse, Highbridge & Mount Eden"
+03708,Market Pressure,18,Bronx,"Concourse, Highbridge & Mount Eden"
+03708,Population Vulnerability,100,Bronx,"Concourse, Highbridge & Mount Eden"
+03708,Housing Conditions,75,Bronx,"Concourse, Highbridge & Mount Eden"
+03709,Displacement Risk,63,Bronx,"Castle Hill, Clason Point & Parkchester"
+03709,Market Pressure,8,Bronx,"Castle Hill, Clason Point & Parkchester"
+03709,Population Vulnerability,75,Bronx,"Castle Hill, Clason Point & Parkchester"
+03709,Housing Conditions,58,Bronx,"Castle Hill, Clason Point & Parkchester"
+03710,Displacement Risk,89,Bronx,"Hunts Point, Longwood & Melrose"
+03710,Market Pressure,46,Bronx,"Hunts Point, Longwood & Melrose"
+03710,Population Vulnerability,93,Bronx,"Hunts Point, Longwood & Melrose"
+03710,Housing Conditions,62,Bronx,"Hunts Point, Longwood & Melrose"
+03801,Displacement Risk,63,Manhattan,"Washington Heights, Inwood & Marble Hill"
+03801,Market Pressure,46,Manhattan,"Washington Heights, Inwood & Marble Hill"
+03801,Population Vulnerability,63,Manhattan,"Washington Heights, Inwood & Marble Hill"
+03801,Housing Conditions,83,Manhattan,"Washington Heights, Inwood & Marble Hill"
+03802,Displacement Risk,47,Manhattan,"Hamilton Heights, Manhattanville & West Harlem"
+03802,Market Pressure,48,Manhattan,"Hamilton Heights, Manhattanville & West Harlem"
+03802,Population Vulnerability,47,Manhattan,"Hamilton Heights, Manhattanville & West Harlem"
+03802,Housing Conditions,73,Manhattan,"Hamilton Heights, Manhattanville & West Harlem"
+03803,Displacement Risk,46,Manhattan,Central Harlem
+03803,Market Pressure,67,Manhattan,Central Harlem
+03803,Population Vulnerability,44,Manhattan,Central Harlem
+03803,Housing Conditions,64,Manhattan,Central Harlem
+03804,Displacement Risk,52,Manhattan,East Harlem
+03804,Market Pressure,34,Manhattan,East Harlem
+03804,Population Vulnerability,53,Manhattan,East Harlem
+03804,Housing Conditions,84,Manhattan,East Harlem
+03805,Displacement Risk,2,Manhattan,Upper East Side
+03805,Market Pressure,15,Manhattan,Upper East Side
+03805,Population Vulnerability,3,Manhattan,Upper East Side
+03805,Housing Conditions,47,Manhattan,Upper East Side
+03806,Displacement Risk,5,Manhattan,Upper West Side & West Side
+03806,Market Pressure,27,Manhattan,Upper West Side & West Side
+03806,Population Vulnerability,5,Manhattan,Upper West Side & West Side
+03806,Housing Conditions,52,Manhattan,Upper West Side & West Side
+03807,Displacement Risk,12,Manhattan,"Chelsea, Clinton & Midtown Business District"
+03807,Market Pressure,59,Manhattan,"Chelsea, Clinton & Midtown Business District"
+03807,Population Vulnerability,13,Manhattan,"Chelsea, Clinton & Midtown Business District"
+03807,Housing Conditions,30,Manhattan,"Chelsea, Clinton & Midtown Business District"
+03808,Displacement Risk,6,Manhattan,"Murray Hill, Gramercy & Stuyvesant Town"
+03808,Market Pressure,18,Manhattan,"Murray Hill, Gramercy & Stuyvesant Town"
+03808,Population Vulnerability,8,Manhattan,"Murray Hill, Gramercy & Stuyvesant Town"
+03808,Housing Conditions,17,Manhattan,"Murray Hill, Gramercy & Stuyvesant Town"
+03809,Displacement Risk,46,Manhattan,Chinatown & Lower East Side
+03809,Market Pressure,12,Manhattan,Chinatown & Lower East Side
+03809,Population Vulnerability,49,Manhattan,Chinatown & Lower East Side
+03809,Housing Conditions,100,Manhattan,Chinatown & Lower East Side
+03810,Displacement Risk,6,Manhattan,"Battery Park City, Greenwich Village & Soho"
+03810,Market Pressure,38,Manhattan,"Battery Park City, Greenwich Village & Soho"
+03810,Population Vulnerability,6,Manhattan,"Battery Park City, Greenwich Village & Soho"
+03810,Housing Conditions,61,Manhattan,"Battery Park City, Greenwich Village & Soho"
+03901,Displacement Risk,7,Staten Island,"Tottenville, Great Kills & Annadale"
+03901,Market Pressure,3,Staten Island,"Tottenville, Great Kills & Annadale"
+03901,Population Vulnerability,10,Staten Island,"Tottenville, Great Kills & Annadale"
+03901,Housing Conditions,27,Staten Island,"Tottenville, Great Kills & Annadale"
+03902,Displacement Risk,16,Staten Island,New Springville & South Beach
+03902,Market Pressure,4,Staten Island,New Springville & South Beach
+03902,Population Vulnerability,21,Staten Island,New Springville & South Beach
+03902,Housing Conditions,25,Staten Island,New Springville & South Beach
+03903,Displacement Risk,30,Staten Island,"Port Richmond, Stapleton & Mariner's Harbor"
+03903,Market Pressure,4,Staten Island,"Port Richmond, Stapleton & Mariner's Harbor"
+03903,Population Vulnerability,39,Staten Island,"Port Richmond, Stapleton & Mariner's Harbor"
+03903,Housing Conditions,28,Staten Island,"Port Richmond, Stapleton & Mariner's Harbor"
+04001,Displacement Risk,39,Brooklyn,Greenpoint & Williamsburg
+04001,Market Pressure,77,Brooklyn,Greenpoint & Williamsburg
+04001,Population Vulnerability,40,Brooklyn,Greenpoint & Williamsburg
+04001,Housing Conditions,36,Brooklyn,Greenpoint & Williamsburg
+04002,Displacement Risk,75,Brooklyn,Bushwick
+04002,Market Pressure,100,Brooklyn,Bushwick
+04002,Population Vulnerability,65,Brooklyn,Bushwick
+04002,Housing Conditions,72,Brooklyn,Bushwick
+04003,Displacement Risk,46,Brooklyn,Bedford-Stuyvesant
+04003,Market Pressure,89,Brooklyn,Bedford-Stuyvesant
+04003,Population Vulnerability,42,Brooklyn,Bedford-Stuyvesant
+04003,Housing Conditions,61,Brooklyn,Bedford-Stuyvesant
+04004,Displacement Risk,20,Brooklyn,Brooklyn Heights & Fort Greene
+04004,Market Pressure,75,Brooklyn,Brooklyn Heights & Fort Greene
+04004,Population Vulnerability,20,Brooklyn,Brooklyn Heights & Fort Greene
+04004,Housing Conditions,52,Brooklyn,Brooklyn Heights & Fort Greene
+04005,Displacement Risk,7,Brooklyn,"Park Slope, Carroll Gardens & Red Hook"
+04005,Market Pressure,59,Brooklyn,"Park Slope, Carroll Gardens & Red Hook"
+04005,Population Vulnerability,8,Brooklyn,"Park Slope, Carroll Gardens & Red Hook"
+04005,Housing Conditions,39,Brooklyn,"Park Slope, Carroll Gardens & Red Hook"
+04006,Displacement Risk,33,Brooklyn,Crown Heights North & Prospect Heights
+04006,Market Pressure,68,Brooklyn,Crown Heights North & Prospect Heights
+04006,Population Vulnerability,32,Brooklyn,Crown Heights North & Prospect Heights
+04006,Housing Conditions,61,Brooklyn,Crown Heights North & Prospect Heights
+04007,Displacement Risk,64,Brooklyn,Brownsville & Ocean Hill
+04007,Market Pressure,34,Brooklyn,Brownsville & Ocean Hill
+04007,Population Vulnerability,72,Brooklyn,Brownsville & Ocean Hill
+04007,Housing Conditions,58,Brooklyn,Brownsville & Ocean Hill
+04008,Displacement Risk,72,Brooklyn,East New York & Starrett City
+04008,Market Pressure,10,Brooklyn,East New York & Starrett City
+04008,Population Vulnerability,81,Brooklyn,East New York & Starrett City
+04008,Housing Conditions,81,Brooklyn,East New York & Starrett City
+04009,Displacement Risk,24,Brooklyn,Canarsie & Flatlands
+04009,Market Pressure,4,Brooklyn,Canarsie & Flatlands
+04009,Population Vulnerability,31,Brooklyn,Canarsie & Flatlands
+04009,Housing Conditions,30,Brooklyn,Canarsie & Flatlands
+04010,Displacement Risk,55,Brooklyn,"East Flatbush, Farragut & Rugby"
+04010,Market Pressure,38,Brooklyn,"East Flatbush, Farragut & Rugby"
+04010,Population Vulnerability,60,Brooklyn,"East Flatbush, Farragut & Rugby"
+04010,Housing Conditions,53,Brooklyn,"East Flatbush, Farragut & Rugby"
+04011,Displacement Risk,65,Brooklyn,"Crown Heights South, Prospect Lefferts & Wingate"
+04011,Market Pressure,94,Brooklyn,"Crown Heights South, Prospect Lefferts & Wingate"
+04011,Population Vulnerability,57,Brooklyn,"Crown Heights South, Prospect Lefferts & Wingate"
+04011,Housing Conditions,75,Brooklyn,"Crown Heights South, Prospect Lefferts & Wingate"
+04012,Displacement Risk,74,Brooklyn,Sunset Park & Windsor Terrace
+04012,Market Pressure,40,Brooklyn,Sunset Park & Windsor Terrace
+04012,Population Vulnerability,83,Brooklyn,Sunset Park & Windsor Terrace
+04012,Housing Conditions,36,Brooklyn,Sunset Park & Windsor Terrace
+04013,Displacement Risk,37,Brooklyn,Bay Ridge & Dyker Heights
+04013,Market Pressure,8,Brooklyn,Bay Ridge & Dyker Heights
+04013,Population Vulnerability,49,Brooklyn,Bay Ridge & Dyker Heights
+04013,Housing Conditions,22,Brooklyn,Bay Ridge & Dyker Heights
+04014,Displacement Risk,61,Brooklyn,"Borough Park, Kensington & Ocean Parkway"
+04014,Market Pressure,41,Brooklyn,"Borough Park, Kensington & Ocean Parkway"
+04014,Population Vulnerability,70,Brooklyn,"Borough Park, Kensington & Ocean Parkway"
+04014,Housing Conditions,25,Brooklyn,"Borough Park, Kensington & Ocean Parkway"
+04015,Displacement Risk,74,Brooklyn,Flatbush & Midwood
+04015,Market Pressure,70,Brooklyn,Flatbush & Midwood
+04015,Population Vulnerability,75,Brooklyn,Flatbush & Midwood
+04015,Housing Conditions,36,Brooklyn,Flatbush & Midwood
+04016,Displacement Risk,45,Brooklyn,"Sheepshead Bay, Gerritsen Beach & Homecrest"
+04016,Market Pressure,44,Brooklyn,"Sheepshead Bay, Gerritsen Beach & Homecrest"
+04016,Population Vulnerability,52,Brooklyn,"Sheepshead Bay, Gerritsen Beach & Homecrest"
+04016,Housing Conditions,12,Brooklyn,"Sheepshead Bay, Gerritsen Beach & Homecrest"
+04017,Displacement Risk,76,Brooklyn,Bensonhurst & Bath Beach
+04017,Market Pressure,74,Brooklyn,Bensonhurst & Bath Beach
+04017,Population Vulnerability,78,Brooklyn,Bensonhurst & Bath Beach
+04017,Housing Conditions,27,Brooklyn,Bensonhurst & Bath Beach
+04018,Displacement Risk,54,Brooklyn,Brighton Beach & Coney Island
+04018,Market Pressure,41,Brooklyn,Brighton Beach & Coney Island
+04018,Population Vulnerability,62,Brooklyn,Brighton Beach & Coney Island
+04018,Housing Conditions,19,Brooklyn,Brighton Beach & Coney Island
+04101,Displacement Risk,39,Queens,Astoria & Long Island City
+04101,Market Pressure,75,Queens,Astoria & Long Island City
+04101,Population Vulnerability,40,Queens,Astoria & Long Island City
+04101,Housing Conditions,33,Queens,Astoria & Long Island City
+04102,Displacement Risk,64,Queens,Jackson Heights & North Corona
+04102,Market Pressure,8,Queens,Jackson Heights & North Corona
+04102,Population Vulnerability,82,Queens,Jackson Heights & North Corona
+04102,Housing Conditions,28,Queens,Jackson Heights & North Corona
+04103,Displacement Risk,58,Queens,"Flushing, Murray Hill & Whitestone"
+04103,Market Pressure,6,Queens,"Flushing, Murray Hill & Whitestone"
+04103,Population Vulnerability,76,Queens,"Flushing, Murray Hill & Whitestone"
+04103,Housing Conditions,16,Queens,"Flushing, Murray Hill & Whitestone"
+04104,Displacement Risk,29,Queens,"Bayside, Douglaston & Little Neck"
+04104,Market Pressure,5,Queens,"Bayside, Douglaston & Little Neck"
+04104,Population Vulnerability,38,Queens,"Bayside, Douglaston & Little Neck"
+04104,Housing Conditions,27,Queens,"Bayside, Douglaston & Little Neck"
+04105,Displacement Risk,23,Queens,"Queens Village, Cambria Heights & Rosedale"
+04105,Market Pressure,6,Queens,"Queens Village, Cambria Heights & Rosedale"
+04105,Population Vulnerability,30,Queens,"Queens Village, Cambria Heights & Rosedale"
+04105,Housing Conditions,27,Queens,"Queens Village, Cambria Heights & Rosedale"
+04106,Displacement Risk,42,Queens,"Briarwood, Fresh Meadows & Hillcrest"
+04106,Market Pressure,6,Queens,"Briarwood, Fresh Meadows & Hillcrest"
+04106,Population Vulnerability,52,Queens,"Briarwood, Fresh Meadows & Hillcrest"
+04106,Housing Conditions,41,Queens,"Briarwood, Fresh Meadows & Hillcrest"
+04107,Displacement Risk,75,Queens,Elmhurst & South Corona
+04107,Market Pressure,10,Queens,Elmhurst & South Corona
+04107,Population Vulnerability,95,Queens,Elmhurst & South Corona
+04107,Housing Conditions,33,Queens,Elmhurst & South Corona
+04108,Displacement Risk,23,Queens,Forest Hills & Rego Park
+04108,Market Pressure,6,Queens,Forest Hills & Rego Park
+04108,Population Vulnerability,32,Queens,Forest Hills & Rego Park
+04108,Housing Conditions,11,Queens,Forest Hills & Rego Park
+04109,Displacement Risk,43,Queens,Sunnyside & Woodside
+04109,Market Pressure,52,Queens,Sunnyside & Woodside
+04109,Population Vulnerability,48,Queens,Sunnyside & Woodside
+04109,Housing Conditions,31,Queens,Sunnyside & Woodside
+04110,Displacement Risk,31,Queens,"Ridgewood, Glendale & Middle Village"
+04110,Market Pressure,60,Queens,"Ridgewood, Glendale & Middle Village"
+04110,Population Vulnerability,33,Queens,"Ridgewood, Glendale & Middle Village"
+04110,Housing Conditions,20,Queens,"Ridgewood, Glendale & Middle Village"
+04111,Displacement Risk,41,Queens,Richmond Hill & Woodhaven
+04111,Market Pressure,22,Queens,Richmond Hill & Woodhaven
+04111,Population Vulnerability,48,Queens,Richmond Hill & Woodhaven
+04111,Housing Conditions,44,Queens,Richmond Hill & Woodhaven
+04112,Displacement Risk,36,Queens,"Jamaica, Hollis & St. Albans"
+04112,Market Pressure,15,Queens,"Jamaica, Hollis & St. Albans"
+04112,Population Vulnerability,42,Queens,"Jamaica, Hollis & St. Albans"
+04112,Housing Conditions,38,Queens,"Jamaica, Hollis & St. Albans"
+04113,Displacement Risk,31,Queens,Howard Beach & Ozone Park
+04113,Market Pressure,37,Queens,Howard Beach & Ozone Park
+04113,Population Vulnerability,35,Queens,Howard Beach & Ozone Park
+04113,Housing Conditions,27,Queens,Howard Beach & Ozone Park
+04114,Displacement Risk,34,Queens,"Far Rockaway, Breezy Point & Broad Channel"
+04114,Market Pressure,5,Queens,"Far Rockaway, Breezy Point & Broad Channel"
+04114,Population Vulnerability,45,Queens,"Far Rockaway, Breezy Point & Broad Channel"
+04114,Housing Conditions,20,Queens,"Far Rockaway, Breezy Point & Broad Channel"
